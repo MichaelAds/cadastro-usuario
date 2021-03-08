@@ -1,0 +1,32 @@
+@import '_create-user.scss';
+@import '_list-user';
+:root {
+    --primary-color: #00c8b3;
+    --white-color: #fff;
+    --text-color: #272727;
+    --light-color: rgba(255, 255, 255, 0.04);
+    --error-color: #eb4a46;
+}
+
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "Arial", sans-serif;
+    height: 100%;
+}
+
+body {
+    height: 100vh;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+a {
+    text-decoration: none;
+}

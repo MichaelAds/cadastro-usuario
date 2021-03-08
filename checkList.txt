@@ -1,0 +1,9 @@
+  [x] Criar Form HTML;
+  [x] Criar Estilo SASS;
+  [x] Automatizar o pré-processador;
+  [x] Salvar Form no LocalStorage;
+  [x] Criar mensagem de ERRO;
+  [x] Criar Ação para o Botão;
+  [x] Criar tela de listagem;
+  [] Criar testes unitarios
+  [x] Criar teste E2E;
